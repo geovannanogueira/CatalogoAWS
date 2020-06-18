@@ -1,0 +1,79 @@
+.tela_home{
+  background-image: url("../imagens/fundo.jpg");
+  background-repeat: no-repeat ;
+  width: 100%;
+  min-height: 100%;
+  display: table;
+  padding: 0;
+  background-position: 10 100 0;
+  background-size: cover;
+  position: absolute;
+}
+
+header img{
+  display: flex;
+  justify-content: center;
+}
+
+.logo2{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 70px;
+}
+
+h1{
+  font-size: 2.5em;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  padding: 11px;
+}
+
+p{
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2em;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#botoes{
+  padding: 5%;
+  display: flex;
+  /* justify-content: center; */
+  padding-bottom: 0;
+
+}
+
+.botao1{
+  margin-left: 22em;
+  margin-right: 10em;
+}
+
+.btn_ec2{
+  width: 6.5em;
+  height: 3.5em;
+  border: 4px solid #000;
+  font-size: 1.7em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn_lambda{
+  width: 6.5em;
+  height: 3.5em;
+  border: 4px solid #000;
+  font-size: 1.7em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nome{
+  font-size: 1.7em;
+}
+
+.EMILIA{
+  text-decoration: none;
+  color: black;
+}
+
+

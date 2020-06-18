@@ -1,0 +1,56 @@
+.tela_servicos{
+    background-image: url("../imagens/fundo.jpg");
+    background-repeat: no-repeat ;
+    width: 100%;
+    min-height: 100%;
+    display: table;
+    padding: 0;
+    background-position: 10 100 0;
+    background-size: cover;
+    position: absolute;
+}
+
+.logo3{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 70px;
+}
+
+.classeTitle{
+    margin-top: 10px;
+}
+
+#caracteristicas{
+    background-color: aliceblue;
+    border: 2px solid #000;
+    width: 40%;
+    margin-left: 7%;
+    padding: 0;
+    line-height: 0;
+}
+
+p{
+    color: black;
+    font-size: 1.5em;
+}
+
+#nome{
+    display: flex;
+    text-align: left;
+    margin-left: 1em;
+}
+
+#descricao{
+    display: flex;
+    text-align: letf;
+    margin-left: 1em;
+    margin-top: 0;
+}
+
+#valor{
+    display: flex;
+    text-align: letf;
+    margin-left: 22em;
+}
+
